@@ -13,3 +13,5 @@ Repositório destinado ao registro de cursos e formações feitos na plataforma 
     * TypeScript parte 1: evoluindo seu JavaScript;
     * TypeScript parte 2: avançando na linguagem;
     * Typescript parte 3: mais técnicas e boas prática.
+* JavaScript ([Abrir](https://cursos.alura.com.br/course/javascript-padroes-abordagem-funcional))
+		* JavaScript: de padrões a uma abordagem funcional.
