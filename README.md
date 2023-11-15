@@ -17,7 +17,8 @@ O foco recai sobre Desenvolvimento Web, na modalidade Frontend.
   * React com Typescript: desenvolvendo uma área administrativa ([Abrir](https://www.alura.com.br/curso-online-react-typescript-area-administrativa));
   * React: escrevendo com Typescript ([Abrir](https://www.alura.com.br/curso-online-typescript-orientado-objetos));
   * TypeScript: aplicando orientação a objetos no Front-end ([Abrir](https://www.alura.com.br/curso-online-typescript-orientado-objetos));
-  * JavaScript: de padrões a uma abordagem funcional ([Abrir](https://www.alura.com.br/curso-online-javascript-padroes-abordagem-funcional)).
+  * JavaScript: de padrões a uma abordagem funcional ([Abrir](https://www.alura.com.br/curso-online-javascript-padroes-abordagem-funcional));
+  * CSS: construindo layouts com Grid ([Abrir](https://cursos.alura.com.br/course/css-construindo-layouts-com-grid)).
 
 ## Artigos
 
