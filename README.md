@@ -1,8 +1,8 @@
-# Estudos na plataforma Alura
+# Estudos em plataformas digitais de ensino
 
-Repositório destinado ao registro de cursos feitos na plataforma Alura.
+Repositório destinado ao registro de cursos feitos em plataformas digitais de ensino.
 
-## Cursos
+## Alura
 
 * React: como os componentes funcionam ([Abrir](https://www.alura.com.br/curso-online-react-componentes-funcionam));
 * SASS: CSS sintaticamente espetacular ([Abrir](https://www.alura.com.br/curso-online-sass-css-sintaticamente-espetacular));
