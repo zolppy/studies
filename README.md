@@ -11,4 +11,5 @@ Repositório destinado ao registro de cursos feitos em plataformas digitais de e
 * React Native com Expo: navegação com menu e suporte às telas ([Abrir](https://cursos.alura.com.br/course/react-native-expo-navegacao-menu-suporte-telas));
 * React Native: utilizando Web API ([Abrir](https://cursos.alura.com.br/course/react-native-utilizando-web-api));
 * TypeScript na prática: implemente um projeto completo com TypeScript e módulos ([Abrir](https://cursos.alura.com.br/course/typescript-pratica-projeto-completo-typescript-modulos));
-* JavaScript: utilizando tipos, variáveis e funções ([Abrir](https://cursos.alura.com.br/course/javascript-utilizando-tipos-variaveis-funcoes)).
+* JavaScript: utilizando tipos, variáveis e funções ([Abrir](https://cursos.alura.com.br/course/javascript-utilizando-tipos-variaveis-funcoes));
+* JavaScript: conhecendo arrays ([Abrir](https://cursos.alura.com.br/course/javascript-conhecendo-arrays)).
