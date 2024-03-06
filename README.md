@@ -13,4 +13,6 @@ Repositório destinado ao registro de cursos feitos em plataformas digitais de e
 * TypeScript na prática: implemente um projeto completo com TypeScript e módulos ([Abrir](https://cursos.alura.com.br/course/typescript-pratica-projeto-completo-typescript-modulos));
 * JavaScript: utilizando tipos, variáveis e funções ([Abrir](https://cursos.alura.com.br/course/javascript-utilizando-tipos-variaveis-funcoes));
 * JavaScript: conhecendo arrays ([Abrir](https://cursos.alura.com.br/course/javascript-conhecendo-arrays));
-* Next.js: explorando o framework ([Abrir](https://cursos.alura.com.br/course/next-js-iniciando-framework)).
+* Next.js: explorando o framework ([Abrir](https://cursos.alura.com.br/course/next-js-iniciando-framework));
+* Next.js: tour pelo Next.js ([Abrir](https://cursos.alura.com.br/course/next-js-tour-next-js));
+* CSS: Flexbox e layouts responsivos ([Abrir](https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos)).
