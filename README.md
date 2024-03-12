@@ -15,4 +15,5 @@ Repositório destinado ao registro de cursos feitos em plataformas digitais de e
 * JavaScript: conhecendo arrays ([Abrir](https://cursos.alura.com.br/course/javascript-conhecendo-arrays));
 * Next.js: explorando o framework ([Abrir](https://cursos.alura.com.br/course/next-js-iniciando-framework));
 * Next.js: tour pelo Next.js ([Abrir](https://cursos.alura.com.br/course/next-js-tour-next-js));
-* CSS: Flexbox e layouts responsivos ([Abrir](https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos)).
+* CSS: Flexbox e layouts responsivos ([Abrir](https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos));
+* Arquitetura CSS: descomplicando os problemas ([Abrir](https://cursos.alura.com.br/course/arquitetura-css)).
