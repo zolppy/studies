@@ -16,4 +16,5 @@ Repositório destinado ao registro de cursos feitos em plataformas digitais de e
 * Next.js: explorando o framework ([Abrir](https://cursos.alura.com.br/course/next-js-iniciando-framework));
 * Next.js: tour pelo Next.js ([Abrir](https://cursos.alura.com.br/course/next-js-tour-next-js));
 * CSS: Flexbox e layouts responsivos ([Abrir](https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos));
-* Arquitetura CSS: descomplicando os problemas ([Abrir](https://cursos.alura.com.br/course/arquitetura-css)).
+* Arquitetura CSS: descomplicando os problemas ([Abrir](https://cursos.alura.com.br/course/arquitetura-css));
+* Acessibilidade no HTML: escrevendo códigos semânticos para inclusão ([Abrir](https://cursos.alura.com.br/course/acessibilidade-html-codigos-semanticos-inclusao)).
