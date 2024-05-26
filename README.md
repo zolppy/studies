@@ -18,4 +18,5 @@ Repositório destinado ao registro de cursos feitos em plataformas digitais de e
 * CSS: Flexbox e layouts responsivos ([Abrir](https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos));
 * Arquitetura CSS: descomplicando os problemas ([Abrir](https://cursos.alura.com.br/course/arquitetura-css));
 * Acessibilidade no HTML: escrevendo códigos semânticos para inclusão ([Abrir](https://cursos.alura.com.br/course/acessibilidade-html-codigos-semanticos-inclusao));
-* React: escrevendo com Typescript ([Abrir](https://cursos.alura.com.br/course/react-modernizando-escrever-typescript)).
+* React: escrevendo com Typescript ([Abrir](https://cursos.alura.com.br/course/react-modernizando-escrever-typescript));
+* Performance Web I: otimizando o front-end ([Abrir](https://cursos.alura.com.br/course/otimizacao-performance-web)).
