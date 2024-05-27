@@ -19,4 +19,8 @@ Repositório destinado ao registro de cursos feitos em plataformas digitais de e
 * Arquitetura CSS: descomplicando os problemas ([Abrir](https://cursos.alura.com.br/course/arquitetura-css));
 * Acessibilidade no HTML: escrevendo códigos semânticos para inclusão ([Abrir](https://cursos.alura.com.br/course/acessibilidade-html-codigos-semanticos-inclusao));
 * React: escrevendo com Typescript ([Abrir](https://cursos.alura.com.br/course/react-modernizando-escrever-typescript));
-* Performance Web I: otimizando o front-end ([Abrir](https://cursos.alura.com.br/course/otimizacao-performance-web)).
+* Performance Web I: otimizando o front-end ([Abrir](https://cursos.alura.com.br/course/otimizacao-performance-web));
+* JavaScript: manipulando elementos no DOM ([Abrir](https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom));
+* JavaScript: métodos de array ([Abrir](https://cursos.alura.com.br/course/javascript-metodos-array));
+* JavaScript: manipulando objetos ([Abrir](https://cursos.alura.com.br/course/javascript-manipulando-objetos));
+* Node.js e terminal: dominando o ambiente de desenvolvimento front-end ([Abrir](https://cursos.alura.com.br/course/node-js-terminal-ambiente-desenvolvimento-front-end)).
