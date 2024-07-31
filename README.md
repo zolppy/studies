@@ -23,4 +23,6 @@ Repositório destinado ao registro de cursos feitos em plataformas digitais de e
 * JavaScript: manipulando elementos no DOM ([Abrir](https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom));
 * JavaScript: métodos de array ([Abrir](https://cursos.alura.com.br/course/javascript-metodos-array));
 * JavaScript: manipulando objetos ([Abrir](https://cursos.alura.com.br/course/javascript-manipulando-objetos));
-* Node.js e terminal: dominando o ambiente de desenvolvimento front-end ([Abrir](https://cursos.alura.com.br/course/node-js-terminal-ambiente-desenvolvimento-front-end)).
+* Node.js e terminal: dominando o ambiente de desenvolvimento front-end ([Abrir](https://cursos.alura.com.br/course/node-js-terminal-ambiente-desenvolvimento-front-end));
+* Estatística com R: frequências e medidas ([Abrir](https://cursos.alura.com.br/course/estatistica-r-frequencias-medidas));
+* Estatística com R: crie e compare modelos estatísticos ([Abrir](https://cursos.alura.com.br/course/estatistica-introducao-modelagem)).
